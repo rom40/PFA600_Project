@@ -1,0 +1,61 @@
+{
+  "actions": [
+    {
+      "setX": 55,
+      "setY": 150,
+      "vacuum": 0
+    },
+    {
+      "setX": 55,
+      "setY": 82
+    },
+    {
+      "vacuum": 1
+    },
+    {
+      "setX": 55,
+      "setY": 150
+    },
+    {
+      "setX": 450,
+      "setY": 150
+    },
+    {
+      "setX": 450,
+      "setY": 82
+    },
+    {
+      "vacuum": 0
+    },
+    {
+      "setX": 450,
+      "setY": 150
+    },
+    {
+      "vacuum": 1
+    },
+    {
+      "setX": 450,
+      "setY": 82
+    },
+    {
+      "setX": 450,
+      "setY": 150
+    },
+    {
+      "setX": 945,
+      "setY": 150
+    },
+    {
+      "setX": 945,
+      "setY": 82
+    },
+    {
+      "vacuum": 0
+    },
+    {
+      "setX": 945,
+      "setY": 150
+    }
+  ]
+}
